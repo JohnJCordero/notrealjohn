@@ -1,7 +1,7 @@
 ### Welcome to my GitHub Page! 
 
 ## I am a UCF Computer Science Senior finihsing my last two semesters to complete my Bachelors'
-- 🔭 I’m currently working on a [VS Code Course][website]!
+- 🔭 I’m currently working on !
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Learn 3 new coding languages and create more personal projects for this GitHub portfolio
@@ -9,7 +9,7 @@
 
 ### Visit My Website to view my projects in action!!!:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />]
 
 
 <br />
@@ -40,5 +40,5 @@
 
 <img align="left" alt="NotRealJohn's Github Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
 
-[website]: 
+
 [linkedin]: https://www.linkedin.com/in/john-cordero-4537021b2/
