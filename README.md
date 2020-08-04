@@ -30,4 +30,4 @@
 <br />
 <br />
 
-[![John's github stats](https://github-readme-stats.vercel.app/api?username=notrealjohn&count_private=true&hide=issues,prs,contribs&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![John's github stats](https://github-readme-stats.vercel.app/api?username=notrealjohn&count_private=true&hide=issues,prs,contribs&show_icons=true&theme=algolia )](https://github.com/anuraghazra/github-readme-stats)
