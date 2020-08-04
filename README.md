@@ -38,7 +38,7 @@
 
 ---
 
-<img align="left" alt="NotRealJohn's Github Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+
 
 
 [linkedin]: https://www.linkedin.com/in/john-cordero-4537021b2/
