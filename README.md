@@ -1,6 +1,6 @@
 ### Welcome to my GitHub Page! 
 
-## I am a UCF Computer Science Senior finishing my last two semesters to complete my Bachelors'
+## I am a UCF Senior finishing my last two semesters to complete my Bachelor in Computer Science
 - 📝 I’m currently working on my Bachelors and my Senior Design Project!
 - 🌱 I’m trying to learn as many languages as I can while making sure they're learned proficiently 
 - 🕺 I’m looking for a professional job to enhance learning contribute what I've learned so far
@@ -30,4 +30,4 @@
 <br />
 <br />
 
-[![John's github stats](https://github-readme-stats.vercel.app/api?username=notrealjohn&count_private=true&hide=prs,contribs&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![John's github stats](https://github-readme-stats.vercel.app/api?username=notrealjohn&count_private=true&hide=issues,prs,contribs&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
