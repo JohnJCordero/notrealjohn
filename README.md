@@ -7,9 +7,9 @@
 - 📚 2020 Goals: Learn 3 new coding languages and create more personal projects for this GitHub portfolio
 - 💡 Fun fact: I enjoy exercising and competitive PC Games
 
-### Visit My Website to view my projects in action!!!:
+### Working on my website. For now, click below to go to my Linkedin page!
 
-<img align="left" alt="comingsoon" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
+[img align="left" alt="comingsoon" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][linkedin]
 <br/>
 <br/>
 
@@ -31,3 +31,6 @@
 <br />
 
 [![John's github stats](https://github-readme-stats.vercel.app/api?username=notrealjohn&count_private=true&hide=issues,prs,contribs&show_icons=true&theme=algolia )](https://github.com/anuraghazra/github-readme-stats)
+
+
+[linkedin]: https://www.linkedin.com/in/john-cordero-4537021b2/
