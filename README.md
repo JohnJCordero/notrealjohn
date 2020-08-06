@@ -9,7 +9,7 @@
 
 ### Working on my website. For now, click below to go to my Linkedin page!
 
-[img align="left" alt="comingsoon" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][linkedin]
+[<img align="left" alt="comingsoon" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][linkedin]
 <br/>
 <br/>
 
