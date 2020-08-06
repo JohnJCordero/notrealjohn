@@ -7,7 +7,7 @@
 - 📚 2020 Goals: Learn 3 new coding languages and create more personal projects for this GitHub portfolio
 - 💡 Fun fact: I enjoy exercising and competitive PC Games
 
-### Working on my website. For now, click below to go to my Linkedin page!
+### Working on my website. For now, click the globe below to go to my Linkedin page!
 
 [<img align="left" alt="comingsoon" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][linkedin]
 <br/>
