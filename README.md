@@ -35,7 +35,7 @@
 
 [linkedin]: https://www.linkedin.com/in/john-cordero-4537021b2/
 
-Plain Text Resume
+### Plain Text Resume:
 
 John Cordero
 
